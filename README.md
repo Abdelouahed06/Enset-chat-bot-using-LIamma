@@ -6,14 +6,17 @@ A modern Flutter-based chatbot application that uses the LIAMMA (Ollama) languag
 
 ### Login Screen
 ![Login Screen](images/login_screen.png)
+
 *Secure login interface with username and password authentication*
 
 ### Chat Interface
 ![Chat Interface](images/chat_interface.png)
+
 *Modern chat interface with real-time streaming responses*
 
 ### Saved Conversations
 ![Saved Conversations](images/saved_conversations.png)
+
 *Access and manage your saved conversations through the drawer menu*
 
 ## Features
